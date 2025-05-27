@@ -65,5 +65,5 @@ Advanced Research Advisor, River Hill HS
         height: auto;
       }
     </style>      
-  {% include figure.liquid path="assets/img/RHHSLogo.jpeg" title="Janine Sharbaugh" class="img-fluid rounded z-depth-AR" %}
+  {% include figure.liquid path="assets/img/MsSharbaugh.png" title="Janine Sharbaugh" class="img-fluid rounded z-depth-AR" %}
 </div>
